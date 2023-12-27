@@ -43,8 +43,8 @@
 ## Table of Contents
 
 - [What’s TRON?](#Rank Coin to Rank Token now TRON)
-- [Building the Source Code](#building-the-source)
-- [Running java-tron](#running-java-tron)
+- [Building the Source Code](#Rank Network)
+- [Running java-tron](#Me)
 - [Community](#community)
 - [Contribution](#contribution)
 - [Resources](#Coin/Token/Fiat)
