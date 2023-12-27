@@ -42,14 +42,14 @@
 
 ## Table of Contents
 
-- [What’s TRON?](#whats-tron)
+- [What’s TRON?](#Rank Coin to Rank Token now TRON)
 - [Building the Source Code](#building-the-source)
 - [Running java-tron](#running-java-tron)
 - [Community](#community)
 - [Contribution](#contribution)
-- [Resources](#resources)
-- [Integrity Check](#integrity-check)
-- [License](#license)
+- [Resources](#Coin/Token/Fiat)
+- [Integrity Check](#Report to me)
+- [License](#Zeeradex)
 
 ## What's TRON?
 
